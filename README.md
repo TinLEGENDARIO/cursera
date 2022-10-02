@@ -1,2 +1,2 @@
-# cursera
-curso repository
+hello wolrd
+my names jonys
